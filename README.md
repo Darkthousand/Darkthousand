@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darkthousand
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Flutter, Dart
-- 💞️ I’m looking to collaborate on any project 
+- 👀 I’m passionnated in programming
+- 🌱 I’m currently building with Flutter, Dart
+- 💞️ I’m currently collaborating in a big project (stay tuned)
 - 📫 How to reach me alan_tayou on twitter
 
 <!---
